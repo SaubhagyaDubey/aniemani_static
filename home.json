@@ -1,0 +1,13 @@
+{
+    "status" : 200,
+    "message" : "This is a message",
+    "errorMessage" : "Error Message",
+    "errorCode" : "Error code",
+    "data" : {
+        "featured" : {
+            "id" : 1,
+            "title" : "How Powerful  is  Adult  Gon ?",
+            "image_url" : ""
+        }
+    }
+}
