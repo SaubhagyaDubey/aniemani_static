@@ -7,7 +7,49 @@
         "featured" : {
             "id" : 1,
             "title" : "How Powerful  is  Adult  Gon ?",
-            "image_url" : ""
-        }
+            "subTitle" : null,
+            "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+            "path" : ""
+        },
+        "rails" : [
+            {
+                "railType" : "recomendation",
+                "title" : "What to watch?",
+                "content" : null,
+                "image_url" : null,
+                "path" : null,
+                "data" : [
+                    {
+                        "id" : 1,
+                        "title" : "Attack On Titan",
+                        "subTitle" : "Final Season",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "path" : ""
+                    },
+                    {
+                        "id" : 1,
+                        "title" : "My Hero Academia",
+                        "subTitle" : "Season 1-4",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "path" : ""
+                    },
+                    {
+                        "id" : 1,
+                        "title" : "My Hero Academia",
+                        "subTitle" : "Season 1-4",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "path" : ""
+                    }
+                ]
+            },
+            {
+                "railType" : "blog",
+                "title" : "Hero of the week",
+                "content" : "",
+                "image_url" : "",
+                "path" : "",
+                "data" : null
+            }
+        ]
     }
 }
