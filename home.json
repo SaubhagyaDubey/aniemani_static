@@ -23,21 +23,21 @@
                         "id" : 1,
                         "title" : "Attack On Titan",
                         "subTitle" : "Final Season",
-                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/aot_poster.png",
                         "path" : ""
                     },
                     {
                         "id" : 1,
                         "title" : "My Hero Academia",
                         "subTitle" : "Season 1-4",
-                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/my_hero_academia.png",
                         "path" : ""
                     },
                     {
                         "id" : 1,
                         "title" : "My Hero Academia",
                         "subTitle" : "Season 1-4",
-                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/gon_cover.png",
+                        "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/my_hero_academia.png",
                         "path" : ""
                     }
                 ]
@@ -46,7 +46,7 @@
                 "railType" : "blog",
                 "title" : "Hero of the week",
                 "content" : "",
-                "image_url" : "",
+                "image_url" : "https://raw.githubusercontent.com/SaubhagyaDubey/aniemani_static/main/images/enji_todoroki.png",
                 "path" : "",
                 "data" : null
             }
