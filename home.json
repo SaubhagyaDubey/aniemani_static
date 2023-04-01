@@ -13,7 +13,7 @@
         },
         "rails" : [
             {
-                "railType" : "recomendation",
+                "railType" : "recommendation",
                 "title" : "What to watch?",
                 "content" : null,
                 "image_url" : null,
